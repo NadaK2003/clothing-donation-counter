@@ -1,8 +1,6 @@
 # Clothing Donation Counter
 
-An AI-powered computer vision system designed to count clothing donations on a conveyor belt using YOLOv8.  
-It detects and visualizes the number of donated items in real-time through a custom Streamlit dashboard.
-
+A computer vision system that uses YOLOv8 to detect and count clothing donation items from images and videos, displaying the results in a Streamlit dashboard.
 ---
 
 ## Features
