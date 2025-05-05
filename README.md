@@ -41,10 +41,9 @@ A computer vision system that uses YOLOv8 to detect and count clothing donation 
 
 ## Future Work
 
-- Improve detection of similar-looking items
-- Add classification by type or fabric
-- Live webcam or video streaming support
-
+- [ ] Improve detection for overlapping or similar-looking clothes
+- [ ] Add item classification (by type or fabric)
+- [ ] Support real-time detection via webcam
 ---
 
 ## Author
