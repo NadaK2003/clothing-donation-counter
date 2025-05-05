@@ -33,7 +33,7 @@ Here are sample outputs from the YOLOv8 model detecting clothing items on a conv
 
 | Detection 4 | Detection 5 | Detection 6 |
 |-------------|-------------|-------------|
-| ![](./5821097510347852892.jpg) | ![](./5821097510347852890.jpg) | ![](./5821097510347852894.jpg) |
+| ![](./5821097510347852892.jpg) | ![](./5821097510347852894.jpg) | ![](./5821097510347852890.jpg) |
 
 ---
 
