@@ -24,9 +24,20 @@ It detects and visualizes the number of donated items in real-time through a cus
 
 ---
 
+
 ## Screenshots
 
-> (Add screenshots of the dashboard or detection results here)
+### Detection Examples
+
+![Detection 1](./5821097510347852889.jpg)
+![Detection 2](./5821097510347852890.jpg)
+![Detection 3](./5821097510347852891.jpg)
+![Detection 4](./5821097510347852892.jpg)
+![Detection 5](./5821097510347852893.jpg)
+![Detection 6](./5821097510347852894.jpg)
+![Detection 7](./5821097510347852895.jpg)
+![Detection 8](./5821097510347852896.jpg)
+![Detection 9](./5821097510347852897.jpg)
 
 ---
 
